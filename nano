@@ -1,0 +1,2 @@
+# alias hechos por Samuel Bautista
+alias arbolito= "git log --all --graph --online"
