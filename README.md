@@ -4,4 +4,6 @@ Para hacer un cruso de git y github en Platzi
 >-Sam
 
 ##NUNCA PARES DE APRENDER:
-Si llegan a ver esto un día ojalá ya este en el mejor lugar posible. bye.
+>Si llegan a ver esto un día ojalá ya este en el mejor lugar posible. bye.
+>Creado por Samuel Bautista Bastida
+
