@@ -6,5 +6,6 @@ Para hacer un cruso de git y github en Platzi
 ##NUNCA PARES DE APRENDER:
 >Si llegan a ver esto un día ojalá ya este en el mejor lugar posible. bye.
 * Incluye ejemplos en Windows, Linux y Mac
+* Disponible para todas las edades
 >Creado por Samuel Bautista Bastida
 
